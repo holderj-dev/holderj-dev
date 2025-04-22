@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @holderj-dev
-- 👀 I’m interested in Game development with unreal engine 4&5, C Sharp programming, Artificial Intelligence Programming with Python.
-- 🌱 I’m currently learning Unreal Blueprints and Python to
-- 👨‍💻 I build Mobile and Desktop applications.
+- 👀 I’m interested in Game development with unreal engine 4 & 5, Unity 6, C# programming.
+- 🌱 I’m currently learning Unreal's animation control Rig, mastering widgets, and preparing for.NET 10.
+- 👨‍💻 I build Games, Mobile and Desktop applications.
 - 💞️ I’m looking to collaborate in Game Developnment Desktop And Mobile Development. 
 - 📫 How to reach me @holderjamese@gmail.com/ +231-770-172-212
 
